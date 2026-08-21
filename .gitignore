@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+yolo_env/
+Backend/.env
+.env
+__pycache__/
+*.pyc
+Backend/uploads/
+AI Services/uploads/
+# YOLO outputs
+runs/
+
+# Uploads
+uploads/
+
+# Environment
+.env
+
+# Model weights
+*.pt
+
+# Dataset
+dataset/
