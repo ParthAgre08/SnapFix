@@ -74,10 +74,4 @@ python app.py
 ---
 
 
-# 🌐 Live Demo
-
-**Frontend**
-
-https://snapfix-ai-frontend.vercel.app/
-
 ---
